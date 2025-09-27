@@ -4,7 +4,7 @@ import Container from './Container';
 
 const Banner = () => {
     return (
-        <div className='h-[550px] bg-right bg-cover' style={{ backgroundImage: `url(${BannerImg})` }}>
+        <div className='h-[550px] bg-left md:bg-right bg-cover mb-20 p-4' style={{ backgroundImage: `url(${BannerImg})` }}>
             <Container>
                 <div className='text-white flex flex-col justify-center h-[550px] '>
                     <h1 className='text-6xl font-semibold'>Bid on Unique Items from <br />Around the World</h1>

@@ -5,11 +5,11 @@ const Navbar = () => {
     return (
         <div className='bg-base-100 shadow-sm'>
             <Container>
-                <div className="navbar">
+                <div className=" md:navbar ">
                     <div className="navbar-start">
                         <a className="btn btn-ghost text-4xl text-blue-800 font-normal">Auction <span className='font-extrabold text-4xl text-yellow-500'>Gallery</span></a>
                     </div>
-                    <div className='navbar-center gap-9 text-2xl '>
+                    <div className='md:navbar-center grid grid-cols-1 text-center md:gap-9 text-2xl '>
                         <a href="">Home</a>
                         <a href="">Actions</a>
                         <a href="">Categories</a>

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic 35mm film camera, renowned for its precision engineering and timeless design.",
+    "currentBidPrice": 3200,
+    "timeLeft": "4 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/RFY0bj2M/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "An iconic vintage electric guitar with a rich, warm tone, highly sought after by collectors and musicians.",
+    "currentBidPrice": 4100,
+    "timeLeft": "2 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/kXsg060T/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Apple’s first Macintosh computer, a revolutionary piece of technology that changed personal computing forever.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/L8h2GyBF/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A luxury dive watch known for its durability, precision, and timeless style.",
+    "currentBidPrice": 9500,
+    "timeLeft": "5 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/YC4BdvMG/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of Fitzgerald’s classic 1925 novel, a cornerstone of American literature.",
+    "currentBidPrice": 7300,
+    "timeLeft": "3 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/25pMTT0X/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic piece of furniture design, combining comfort with sleek mid-century modern aesthetics.",
+    "currentBidPrice": 7300,
+    "timeLeft": "6 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/8PjYSx9T/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "An authentic artwork by Banksy, featuring his distinctive street art style and cultural commentary.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 0,
+    "image": "https://i.postimg.cc/NMsNPnmn/Bid7-min.png"
+  }
+]
